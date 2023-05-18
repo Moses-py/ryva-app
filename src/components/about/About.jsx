@@ -1,26 +1,25 @@
 const features = [
   {
-    name: "Lorem ipsum dolor",
+    name: "We Source",
     description:
-      "Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.",
+      "We take our time to source for good quality products but close to their best before dates.",
     icon: "/source.png",
   },
   {
-    name: "Lorem ipsum dolor",
+    name: "We Inspect",
     description:
-      "Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.",
+      "Our quality control team inspects the products with care to ensure all products are still very much safe for consumption.",
     icon: "/inspect.png",
   },
   {
-    name: "Lorem ipsum dolor",
-    description:
-      "Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.",
+    name: "We Acquire",
+    description: `After these products pass inspection, they are delivered to Ryva. We in turn sell these products to our customers at DISCOUNTED PRICES.`,
     icon: "/acquire.png",
   },
   {
-    name: "Lorem ipsum dolor",
+    name: "We Sell",
     description:
-      "Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.",
+      "We make these products available to our customers via our online channels and our walk-in stores.",
     icon: "/sale.png",
   },
 ];
@@ -36,13 +35,8 @@ export default function About() {
             </h3>
           </div>
           <p className="mt-2 text-4xl font-bold tracking-tight text-gray-900 ">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et,
-            reprehenderit.
-          </p>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
-            Quis tellus eget adipiscing convallis sit sit eget aliquet quis.
-            Suspendisse eget egestas a elementum pulvinar et feugiat blandit at.
-            In mi viverra elit nunc.
+            Our goal is to curb food waste and reduce land pollution. To do this
+            this, we offer great deals on salvage products.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

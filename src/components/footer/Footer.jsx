@@ -11,15 +11,10 @@ const Footer = () => {
       <div className="md:w-2/3 w-full px-4 text-white flex flex-col">
         <div className="w-full text-7xl font-bold">
           <h1 className="w-full md:w-2/3 text-4xl lg:text-6xl xl:text-8xl pt-[3rem] font-primary">
-            How can we help you. get in touch
+            How can we help you? Get in touch.
           </h1>
         </div>
         <div className="flex mt-8 flex-col md:flex-row md:justify-between">
-          <p className="w-full md:w-2/3 text-gray-400">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid
-            numquam adipisci nesciunt ipsum aut dolore natus laboriosam deleniti
-            veniam facere.
-          </p>
           <div className="w-44 pt-6 md:pt-0">
             <a className="bg-[#ff0000] justify-center text-center rounded-lg shadow px-10 py-3 flex items-center">
               Contact us
@@ -45,7 +40,7 @@ const Footer = () => {
               href="#about"
               className="block cursor-pointer text-white hover:text-white uppercase"
             >
-              AboutvUs
+              About Us
             </a>
             <a
               href="#coming-soon"

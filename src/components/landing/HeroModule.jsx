@@ -1,18 +1,16 @@
 const HeroModule = () => {
   return (
     <>
-      <div className="container mx-auto flex lg:flex-row flex-col justify-center lg:gap-[10rem] h-full pb-[2rem] items-center">
+      <div className="container mx-auto flex lg:flex-row flex-col justify-center lg:gap-[10rem] h-full pb-[2rem] items-center font-secondary">
         {/* Text box */}
         <div className="flex flex-col gap-8 xl:w-[40%] lg:w-[80%] w-full px-5 mt-[5rem] mb-[2rem] lg:my-0">
-          <h1 className="mb-4 text-6xl font-extrabold leading-none tracking-tight text-gray-900 lg:text-8xl dark:text-white">
-            <span className="text-[#ff0000]">Buy more,</span> <br />
-            <span className="text-green-400">with less.</span>
+          <h1 className="mb-4 text-6xl font-extrabold leading-none tracking-tight text-gray-900 lg:text-8xl dark:text-white font-primary">
+            <span className="text-[#ff0000] mb-2">Buy more,</span> <br />
+            <span className="text-green-400">With less.</span>
           </h1>
-          <p className="font-secondary text-[17px] leading-7">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt
-            at dolorum impedit aliquam, a ipsam magnam harum exercitationem
-            delectus consectetur nulla commodi tempore odio similique nam
-            dignissimos sed atque laboriosam!
+          <p className="font-secondary mt-2 text-xl leading-7 text-gray-600">
+            Make your grocery budget go further with Ryva`s groceries. Join
+            thousands of households and enjoy shopping now!
           </p>
           {/* buttons */}
           <div className="flex gap-3 w-full my-3 lg:w-[70%] ">

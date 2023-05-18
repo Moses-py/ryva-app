@@ -10,15 +10,12 @@ export default function Team() {
             <h2 className="mb-4 text-center text-4xl text-gray-900 font-bold font-primary">
               Meet our excellent team
             </h2>
-            <p className="text-gray-600 lg:w-8/12 lg:mx-auto">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-              consequatur nobis, eius enim magnam omnis sed dolore sint velit
-              temporibus laudantium corrupti molestiae maxime illum aliquam?
-              Saepe quasi quibusdam reprehenderit quam aperiam necessitatibus?
-              Ipsum, nam excepturi quas iste nulla unde.
+            <p className="mt-2 text-lg leading-7 text-gray-600 lg:w-8/12 lg:mx-auto font-secondary">
+              Great teamwork is the only way we create the breakthroughs that
+              define our careers. Here`s our team of change makers.
             </p>
           </div>
-          <div className="grid gap-12  items-center lg:grid-cols-4 md:grid-cols-2 font-secondary">
+          <div className="grid gap-12 items-center lg:grid-cols-4 md:grid-cols-2 font-secondary">
             <div className="space-y-4 text-center">
               <img
                 className="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64"
@@ -30,7 +27,7 @@ export default function Team() {
               />
               <div>
                 <h4 className="text-2xl font-bold">Hentoni Doe</h4>
-                <span className="block text-sm text-gray-500">
+                <span className="block text-sm font-bold leading-7 text-gray-900">
                   Human Resources (HR)
                 </span>
                 <div className="flex justify-center items-center gap-4 text-gray-700 my-2">
