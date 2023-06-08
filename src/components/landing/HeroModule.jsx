@@ -20,7 +20,7 @@ const HeroModule = () => {
             transition={{ duration: 0.5, delay: 0.6 }}
             className="font-secondary mt-2 text-xl leading-7 text-gray-600"
           >
-            Make your grocery budget go further with Ryva`s groceries. Join
+            Make your grocery budget go further with Ryva groceries. Join
             thousands of households and enjoy shopping now!
           </motion.p>
           {/* buttons */}

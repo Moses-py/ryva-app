@@ -3,13 +3,13 @@ const features = [
   {
     name: "We Source",
     description:
-      "We take our time to source for products that are of good quality but close to their best before dates.",
+      "We work tirelessly to a source wide range of high quality grocery items including fresh produce, pantry staples, snacks and beverages from manufacturers, retailers and distributors.",
     icon: "/source.png",
   },
   {
     name: "We Inspect",
     description:
-      "Our quality control team inspects the products with care to ensure all products are still very much safe for consumption.",
+      "We prioritize rigirous quality control methods to ensure that the salvaged items meet our strict standards.",
     icon: "/inspect.png",
   },
   {

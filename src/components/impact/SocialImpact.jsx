@@ -21,7 +21,7 @@ const impacts = [
   {
     name: "Climate action",
     description:
-      "We help mitigate climate change by preventing food from ending up in landfills. We contribute to climate action by promoting more sustainable resource management.",
+      "We help mitigate climate change by preventing food from ending up in land fills. We contribute to climate action by promoting more sustainable resource management.",
     icon: "/climate.png",
   },
 ];
