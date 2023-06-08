@@ -134,7 +134,10 @@ const Navbar = () => {
           >
             <LinkedInIcon sx={{ color: "#111", opacity: 0.7 }} />
           </a>
-          <a href="">
+          <a
+            href="https://instagram.com/ryva_groceries?igshid=ZDc4ODBmNjlmNQ=="
+            target="__blank"
+          >
             <InstagramIcon sx={{ color: "#111", opacity: 0.7 }} />
           </a>
           <a
@@ -276,7 +279,10 @@ const Navbar = () => {
                 >
                   <LinkedInIcon sx={{ color: "gray" }} />
                 </a>
-                <a href="/">
+                <a
+                  href="https://instagram.com/ryva_groceries?igshid=ZDc4ODBmNjlmNQ=="
+                  target="__blank"
+                >
                   <InstagramIcon sx={{ color: "gray" }} />
                 </a>
                 <a

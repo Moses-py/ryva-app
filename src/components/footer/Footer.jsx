@@ -27,7 +27,10 @@ const Footer = () => {
             transition={{ duration: 0.5, delay: 0.5 }}
             className="w-44 pt-6 md:pt-0"
           >
-            <a className="bg-[#ff0000] justify-center text-center rounded-lg shadow px-10 py-3 flex items-center">
+            <a
+              className="bg-[#ff0000] justify-center text-center rounded-lg shadow px-10 py-3 flex items-center"
+              href="tel:09039366017"
+            >
               Contact us
             </a>
           </motion.div>
@@ -85,7 +88,10 @@ const Footer = () => {
                 >
                   <LinkedInIcon sx={{ color: "white" }} />
                 </a>
-                <a href="">
+                <a
+                  href="https://instagram.com/ryva_groceries?igshid=ZDc4ODBmNjlmNQ=="
+                  target="__blank"
+                >
                   <InstagramIcon sx={{ color: "white" }} />
                 </a>
                 <a
