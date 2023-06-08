@@ -9,7 +9,7 @@ const HeroModule = () => {
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.3 }}
-            className="mb-4 text-6xl font-extrabold leading-none tracking-tight text-gray-900 lg:text-8xl dark:text-white font-primary"
+            className="mb-4 text-6xl font-extrabold leading-none tracking-tight text-gray-900 lg:text-8xl font-primary"
           >
             <span className="text-[#ff0000] mb-2">Buy more,</span> <br />
             <span className="text-green-400">With less.</span>

@@ -4,7 +4,7 @@ const impacts = [
   {
     name: "Reducing food waste",
     description:
-      "With our amazing discount offers, less food items end up in land fills.",
+      "With our amazing discount offers, less food items end up wasting.",
     icon: "/food-waste.png",
   },
   {
@@ -52,7 +52,7 @@ const SocialImpact = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3, delay: index * 0.2 }}
               key={index}
-              className="w-full px-4 py-8 mt-6 bg-white rounded-lg border border-gray=300 sm:w-1/2 md:w-1/2 lg:w-1/4 dark:bg-gray-800"
+              className="w-full px-4 py-8 mt-6 bg-white rounded-lg border border-gray=300 sm:w-1/2 md:w-1/2 lg:w-1/4 "
             >
               <div className="flex-shrink-0">
                 <div className="flex items-center justify-center w-12 h-12 mx-auto text-white border border-gray-300 rounded-md">
@@ -63,10 +63,10 @@ const SocialImpact = () => {
                   />
                 </div>
               </div>
-              <h3 className="py-4 text-xl font-bold leading-7 bg-gradient-to-r from-orange-700 to-yellow-500 bg-clip-text text-transparent sm:text-xl dark:text-white">
+              <h3 className="py-4 text-xl font-bold leading-7 bg-gradient-to-r from-orange-700 to-yellow-500 bg-clip-text text-transparent sm:text-xl">
                 {impact.name}
               </h3>
-              <p className="py-4 text-gray-500 text-md dark:text-gray-300">
+              <p className="py-4 text-gray-500 text-md ">
                 {impact.description}
               </p>
             </motion.div>
