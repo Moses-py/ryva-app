@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
       <div
-        className="lg:flex flex-col relative w-full h-full lg:h-[100vh] max-h-full bg-[url('/bg-gradient.png')] lg:bg-[url('/blob2.svg')] bg-no-repeat bg-cover bg-center"
+        className="lg:flex flex-col relative w-full h-full lg:h-[100vh] max-h-full bg-[url('/blob3.svg')] lg:bg-[url('/blob2.svg')] bg-no-repeat bg-cover bg-center"
         id="home"
       >
         <div>
