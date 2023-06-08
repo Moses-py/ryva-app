@@ -3,7 +3,7 @@ const features = [
   {
     name: "We Source",
     description:
-      "We work tirelessly to a source wide range of high quality grocery items including fresh produce, pantry staples, snacks and beverages from manufacturers, retailers and distributors.",
+      "We work tirelessly to a source wide range of high quality grocery items including pantry staples, snacks and beverages from manufacturers, retailers and distributors.",
     icon: "/source.png",
   },
   {
